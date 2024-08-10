@@ -1,5 +1,4 @@
 ﻿# Ignore the .vscode folder, which contains user-specific settings
-.vscode
 
 # Ignore the publish folder, which contains the compressed
 publish
